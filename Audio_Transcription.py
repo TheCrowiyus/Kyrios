@@ -1,6 +1,6 @@
 import requests
 
-def transcribe_audio(file_path, language="en", url="http://eu.loclx.io:21567/v1/audio/transcriptions"):
+def transcribe_audio(file_path, language="en", url="http://localhost:8000/v1/audio/transcriptions"):
     try:
         with open(file_path, "rb") as file:
             files = {"file": file}
