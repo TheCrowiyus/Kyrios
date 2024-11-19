@@ -2,7 +2,7 @@ import requests
 
 
 def generate_response(prompt):
-    url = "http://eu.loclx.io:25563//api/generate"
+    url = "http://localhost:11434//api/generate"
     payload = {
         "model": "llama3.2",
         "prompt": prompt,
