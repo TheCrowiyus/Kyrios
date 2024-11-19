@@ -72,9 +72,7 @@ For self-hosting:
    ```bash
    python Main.py
    ```
-2. Press **Enter** to begin recording your voice.
-3. Speak to the AI and press **Enter** again to stop recording.
-4. The app will transcribe your voice and generate a response from the AI.
+2. Choose an Option and Enjoy!
 
 ## Contributing
 
