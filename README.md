@@ -17,9 +17,9 @@
 
 ## Getting Started
 
-### Self-Hosting Prerequisites
+### Option 1: Self-Hosting
 
-Before starting, ensure you have the necessary servers set up:
+If you'd like to self-host the required servers:
 
 1. **Faster-Whisper Server**  
    - For GPU support:
@@ -38,10 +38,18 @@ Before starting, ensure you have the necessary servers set up:
      ```
    - Alternatively, download the binaries from [Ollama Releases](https://ollama.com/).
 
+### Option 2: Use Pre-Configured Servers
+
+If you’d prefer not to self-host:
+1. Download a binary from the [Releases](https://github.com/your-username/Kyrios/releases) section of this repository.
+2. Use the pre-configured public servers I’m offering for a limited time:
+   - **FasterWhisper Server**: Preconfigured for transcription.
+   - **Ollama Server**: Preconfigured for AI responses.
+3. After downloading the binary, simply run it, and the app will automatically connect to the public servers.
+
 ### Basic Setup
 
-Once the servers are ready, follow these steps:
-
+For self-hosting or using pre-configured servers:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Kyrios.git
