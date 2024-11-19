@@ -49,7 +49,7 @@ If you’d prefer not to self-host:
 
 ### Basic Setup
 
-For self-hosting or using pre-configured servers:
+For self-hosting:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Kyrios.git
